@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="android.view.View"/>
+<fullyQualifiedTypeName name="android.content.Intent"/>
+<fullyQualifiedTypeName name="com.example.primaskinka.R.id"/>
+<fullyQualifiedTypeName name="android.net.ConnectivityManager"/>
+<fullyQualifiedTypeName name="java.io.IOException"/>
+<fullyQualifiedTypeName name="android.util.Log"/>
+<fullyQualifiedTypeName name="java.lang.StringBuilder"/>
+<fullyQualifiedTypeName name="com.example.primaskinka.MainActivity.DownloadWebpageTask"/>
+<fullyQualifiedTypeName name="java.lang.Exception"/>
+<fullyQualifiedTypeName name="android.os.AsyncTask"/>
+<fullyQualifiedTypeName name="com.example.primaskinka.R.layout"/>
+<fullyQualifiedTypeName name="android.content.Context"/>
+<fullyQualifiedTypeName name="android.widget.Button"/>
+<fullyQualifiedTypeName name="android.widget.TextView"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout.LayoutParams"/>
+<fullyQualifiedTypeName name="android.widget.CompoundButton"/>
+<fullyQualifiedTypeName name="android.widget.CompoundButton.OnCheckedChangeListener"/>
+<fullyQualifiedTypeName name="android.widget.ToggleButton"/>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="android.widget.LinearLayout"/>
+<fullyQualifiedTypeName name="android.net.NetworkInfo"/>
+<fullyQualifiedTypeName name="android.net.wifi.WifiManager"/>
+<fullyQualifiedTypeName name="android.net.wifi.WifiInfo"/>
+<fullyQualifiedTypeName name="android.graphics.Color"/>
+</qualifiedTypeNameHistroy>

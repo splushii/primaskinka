@@ -1,0 +1,5 @@
+INDEX VERSION 1.126+C:\Users\splushii\Documents\GitHub\primaskinka\pumbaworkspace\.metadata\.plugins\org.eclipse.jdt.core
+2128266247.index
+56268610.index
+3371308935.index
+4117144172.index
